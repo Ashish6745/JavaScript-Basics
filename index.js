@@ -14,7 +14,7 @@
         //   </script>
         // </head>
 //2. second way is to make a seperate file for JS . It will help you to maintain code easily ex-Script.js
-// And now add the this to html <script src='filepath/filename'></script>
+// And now add  this to html <script src='filepath/filename'></script>
 
 
 
@@ -99,7 +99,7 @@
 
 // -------Const--------
 // if you want to define a variable whose value is unchanging then use 'const'
-// consts can be changed and redefined again.
+// consts cannot be changed and redefined again.
 
 
 
